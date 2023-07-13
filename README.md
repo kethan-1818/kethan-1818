@@ -1,7 +1,7 @@
-[![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)](https://github.com/gummallakethan143)
+
 <h1 align="center">Hi 👋, I'm Gummalla kethan</h1>
 
-<h3 align="center">A passionate frontend web developer from India</h3>
+
 
 
 <br>
@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **React, Backend development**
 
-- 💬 Ask me about **C, C++, Java, frontend web development**
+- 💬 Ask me about ** C++, python, frontend web development**
 
 - 📫 How to reach me: **gk21ecb0b19@student.nitw.ac.in**
 
