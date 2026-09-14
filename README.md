@@ -9,6 +9,8 @@
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 <p align="left">
 
+- Join the club that deploy Fearlessly on **www.fridaydeploymentclub.com**
+
 - 🌱 I’m currently learning **more about AI and LLM**
 
 - 💬 Ask me about **DevOps and AI automation**
