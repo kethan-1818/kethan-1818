@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **React, Backend development**
 
-- 💬 Ask me about ** DevOps and AI automation **
+- 💬 Ask me about **DevOps and AI automation**
 
 - 📫 How to reach me: **gummmallakethan@gmail.com**
 
