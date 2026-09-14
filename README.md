@@ -12,11 +12,11 @@
 
 - 🌱 I’m currently learning **React, Backend development**
 
-- 💬 Ask me about ** C++, python, frontend web development**
+- 💬 Ask me about ** DevOps and AI automation **
 
-- 📫 How to reach me: **gk21ecb0b19@student.nitw.ac.in**
+- 📫 How to reach me: **gummmallakethan@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact **I deploy on friday**
 </p>
 <br>
 
